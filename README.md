@@ -1,13 +1,11 @@
 Purpose
 =======
 
-A follow along for the Learn Python Through Public Data Hacking by David Beazley
+A follow along for the [Learn Python Through Public Data Hacking] (http://pyvideo.org/video/1725/learn-python-through-public-data-hacking) by [David Beazley] (http://www.dabeaz.com/).
 
-http://pyvideo.org/video/1725/learn-python-through-public-data-hacking 
+This follow along focuses on the Chicago Transit Authority's (CTA) Bus Tracker.  The developer website can be found [here] (http://www.transitchicago.com/developers/bustracker.aspx).
 
-This follow along focuses on the Chicago Transit Authority's (CTA) bus tracker.  The developer website can be found here: http://www.transitchicago.com/developers/bustracker.aspx
-
-However, this follow along focuses on the CTA "Unoffical" API: http://harperreed.github.io/transitapi/ 
+However, this follow along focuses on the [CTA "Unoffical" API] (http://harperreed.github.io/transitapi/). 
 
 Explanation of Files
 --------------------

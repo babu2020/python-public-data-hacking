@@ -1,9 +1,9 @@
-# monitor.py 
+# monitor.py
 
 import urllib
 from xml.etree.ElementTree import parse
 
-candidates = ['1409', '1909']
+candidates = ['1856', '1863']
 daves_latitude =  41.98062
 
 def distance(lat1, lat2):
